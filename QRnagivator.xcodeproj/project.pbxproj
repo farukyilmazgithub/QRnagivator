@@ -18,6 +18,7 @@
 		E9C7699228395FAF002FC70F /* CodeScanner in Frameworks */ = {isa = PBXBuildFile; productRef = E9C7699128395FAF002FC70F /* CodeScanner */; };
 		E9E5B2DE283C134100EAF030 /* QRScanner.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9E5B2DD283C134100EAF030 /* QRScanner.swift */; };
 		E9E5B2E9283C195800EAF030 /* QRScannerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9E5B2E8283C195800EAF030 /* QRScannerViewController.swift */; };
+		E9F2FE97284948ED00459025 /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = E9F2FE96284948ED00459025 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -33,6 +34,7 @@
 		E9C7698928395B35002FC70F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		E9E5B2DD283C134100EAF030 /* QRScanner.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QRScanner.swift; sourceTree = "<group>"; };
 		E9E5B2E8283C195800EAF030 /* QRScannerViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QRScannerViewController.swift; sourceTree = "<group>"; };
+		E9F2FE96284948ED00459025 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -78,6 +80,7 @@
 				E9C7698628395B35002FC70F /* LaunchScreen.storyboard */,
 				E9C7698928395B35002FC70F /* Info.plist */,
 				E9C7697928395B32002FC70F /* Products */,
+				E9F2FE96284948ED00459025 /* README.md */,
 			);
 			path = QRnagivator;
 			sourceTree = "<group>";
@@ -163,6 +166,7 @@
 				E9C7697C28395B32002FC70F /* AppDelegate.swift in Sources */,
 				E9C7697E28395B32002FC70F /* SceneDelegate.swift in Sources */,
 				E9E5B2DE283C134100EAF030 /* QRScanner.swift in Sources */,
+				E9F2FE97284948ED00459025 /* README.md in Sources */,
 				E9675233283D46D70083F212 /* LocationViewModel.swift in Sources */,
 				E9675237283D59BD0083F212 /* TargetLocation.swift in Sources */,
 			);
