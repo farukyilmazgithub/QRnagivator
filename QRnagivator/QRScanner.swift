@@ -80,7 +80,7 @@ struct QRScanner: View {
         } else {
             let placemark = MKPlacemark(coordinate: CLLocationCoordinate2D(latitude: lat, longitude: lng), addressDictionary: nil)
             let mapItem = MKMapItem(placemark: placemark)
-            mapItem.name = "Target location"
+            mapItem.name = "Scanned Target location"
             mapItem.openInMaps(launchOptions: [MKLaunchOptionsDirectionsModeKey : MKLaunchOptionsDirectionsModeDriving])
         }
     }

@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		E9675233283D46D70083F212 /* LocationViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9675232283D46D70083F212 /* LocationViewModel.swift */; };
 		E9675237283D59BD0083F212 /* TargetLocation.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9675236283D59BD0083F212 /* TargetLocation.swift */; };
+		E9C68BCE2849D18100A13AB6 /* Sunum in Resources */ = {isa = PBXBuildFile; fileRef = E9C68BCD2849D18100A13AB6 /* Sunum */; };
 		E9C7697C28395B32002FC70F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9C7697B28395B32002FC70F /* AppDelegate.swift */; };
 		E9C7697E28395B32002FC70F /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9C7697D28395B32002FC70F /* SceneDelegate.swift */; };
 		E9C7698028395B32002FC70F /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9C7697F28395B32002FC70F /* ViewController.swift */; };
@@ -23,6 +24,7 @@
 /* Begin PBXFileReference section */
 		E9675232283D46D70083F212 /* LocationViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationViewModel.swift; sourceTree = "<group>"; };
 		E9675236283D59BD0083F212 /* TargetLocation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TargetLocation.swift; sourceTree = "<group>"; };
+		E9C68BCD2849D18100A13AB6 /* Sunum */ = {isa = PBXFileReference; lastKnownFileType = folder; name = Sunum; path = ../../Sunum; sourceTree = "<group>"; };
 		E9C7697828395B32002FC70F /* QRnagivator.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = QRnagivator.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E9C7697B28395B32002FC70F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		E9C7697D28395B32002FC70F /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -77,6 +79,7 @@
 				E9C7698428395B35002FC70F /* Assets.xcassets */,
 				E9C7698628395B35002FC70F /* LaunchScreen.storyboard */,
 				E9C7698928395B35002FC70F /* Info.plist */,
+				E9C68BCD2849D18100A13AB6 /* Sunum */,
 				E9C7697928395B32002FC70F /* Products */,
 			);
 			path = QRnagivator;
@@ -146,6 +149,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				E9C7698828395B35002FC70F /* LaunchScreen.storyboard in Resources */,
+				E9C68BCE2849D18100A13AB6 /* Sunum in Resources */,
 				E9C7698528395B35002FC70F /* Assets.xcassets in Resources */,
 				E9C7698328395B32002FC70F /* Main.storyboard in Resources */,
 			);
